@@ -1,5 +1,4 @@
 # FrickinFweshRepo
 Some Frickin Fwesh Repo just4Fun
 
-<script src="https://yonle.github.io/RickRoll.js/RickRoll.js"></script>
-<script> rickroll() </script>
+![Fwesh](https://yonle.github.io/RickRoll.js/vid.mp4)
